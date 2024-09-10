@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hello, I am Paramveer Singh and I am a current MDS Graduate student. I am very excited to learn more about data science.
