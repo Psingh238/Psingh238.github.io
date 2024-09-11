@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: ../docs
+  output-dir: /docs
 
 website:
-  title: "website_data"
+  title: "Paramveer Singh"
   navbar:
     left:
       - href: index.qmd
